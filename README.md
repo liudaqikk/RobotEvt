@@ -3,7 +3,7 @@ The RobotEvt dataset contains sequences under different motion models, speeds an
  -  4 motion models: PureRot - pure rotation; ParRot partial rotation; PureTranslate - pure translation and FullMod - full rigid motion model.
 - 3 speeds: Fast - maximum speed of the robot arm (1m/s); Mid - 75% of the maximum speed and Slow - 50% of the maximum speed.
 - 2 brightness conditions: On and Off means bright and dark conditions, respectively.
- ![enter description here](./images/robot_setup.png)
+ ![enter description here](./robot_setup.png)
  # Dataset format!
 
 # Download links
