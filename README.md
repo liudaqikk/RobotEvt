@@ -5,7 +5,7 @@ The RobotEvt dataset contains sequences under different motion models, speeds an
 - 2 brightness conditions: On and Off means bright and dark conditions, respectively.
 
 ![UR5 robot arm with DAVIS 240C event camera, and sample APS image and event image captured with our setup.](https://github.com/liudaqikk/RobotEvt/blob/main/robot_setup.png?raw=true)
- # Dataset format!
+# Dataset format
 
 # Download links
 Download link for Pure Rotation sequences can be downloaded [here](https://drive.google.com/drive/folders/1uhnCR2iDIEZhVNmL-2a-FWmo1J-Ip_vv?usp=sharing)
