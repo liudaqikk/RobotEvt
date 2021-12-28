@@ -4,7 +4,7 @@ The RobotEvt dataset contains sequences under different motion models, speeds an
 - 3 speeds: Fast - maximum speed of the robot arm (1m/s); Mid - 75% of the maximum speed and Slow - 50% of the maximum speed.
 - 2 brightness conditions: On and Off means bright and dark conditions, respectively.
 
- !(https://github.com/liudaqikk/RobotEvt/blob/main/robot_setup.png)
+ ![UR5 robot arm with DAVIS 240C event camera, and sample APS image and event image captured with our setup.](https://github.com/liudaqikk/RobotEvt/blob/main/robot_setup.png?raw=true)
  # Dataset format!
 
 # Download links
