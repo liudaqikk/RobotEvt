@@ -18,3 +18,7 @@ Ground truth are provided with a txt file, where the poses are represented using
 # Download links
 Download link for Pure Rotation sequences can be downloaded [here](https://drive.google.com/drive/folders/1uhnCR2iDIEZhVNmL-2a-FWmo1J-Ip_vv?usp=sharing), which contains the measurement of events, raw images and IMU. 
 More sequences with full rigid motion and higher resolution generated using [Prophesee cameras](https://www.prophesee.ai/) will be released soon.
+# Citing
+Please cite the following paper when using this datase for academic usage.
+
+Daqi Liu, Álvaro Parra, Tat-Jun Chin. [Spatiotemporal registration for event-based visual odometry.](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Spatiotemporal_Registration_for_Event-Based_Visual_Odometry_CVPR_2021_paper.pdf) Conference on Computer Vision and Pattern Recognition (CVPR) 2021
