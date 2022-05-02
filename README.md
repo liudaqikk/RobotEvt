@@ -15,6 +15,8 @@ Events, raw images and IMU measurements are stored in the [rosbag](http://wiki.r
 
 Ground truth are provided with a txt file, where the poses are represented using rotation matrix and translation. One pose per line (timestamp r11 r12 r13 r21 r22 r23 r31 r32 r33 t1 t2 t3) .
 
+calibration of camera is provided with a txt file (calib.txt), where the first four digits represent the camera intrinic (fx fy cx cy) and the rest digits represent the distortion model. 
+
 # Download links
 Download link for Pure Rotation sequences can be downloaded [here](https://drive.google.com/drive/folders/1uhnCR2iDIEZhVNmL-2a-FWmo1J-Ip_vv?usp=sharing), which contains the measurement of events, raw images and IMU. 
 More sequences with full rigid motion and higher resolution generated using [Prophesee cameras](https://www.prophesee.ai/) will be released soon.
